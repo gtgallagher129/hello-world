@@ -1,0 +1,17 @@
+body {background-color: rgba(78, 170, 245, 0.671);}
+h2 {color: rgb(128, 0, 255);text-align: center;}
+h2 {font-size: medium;}
+h1 { text-align: center;}
+p {text-align: center ;}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  ul { text-align: center; list-style-position: inside;}
+  ul li {
+    list-style-type: square;
+  }
